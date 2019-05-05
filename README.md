@@ -1,5 +1,5 @@
-<small><u>Random viewing note:</u>
-Sometimes the Jupyter notbook code will not render. When this happens paste the URL here:  [view Jupyter code](https://nbviewer.jupyter.org/)</small>
+<sub><u>Random viewing note:</u>
+Sometimes the Jupyter notbook code will not render. When this happens paste the URL here:  [view Jupyter code](https://nbviewer.jupyter.org/)</sub>
 
 # General Information
 
@@ -10,10 +10,10 @@ The presented code maintains, updates, and edits a single database. The database
 * Strain, species, and genus scientific names
 * The name of the reference database where the genetic information can be found
   * Current databases are:
-    * NCBI
-    * Ensembl
-    * Fungi DB
-    * JGI 1000 Genomes Project
+    * [NCBI](https://www.ncbi.nlm.nih.gov/)
+    * [Ensembl](http://fungi.ensembl.org/info/website/ftp/index.html)
+    * [Fungi DB](https://fungidb.org/common/downloads/release-41/)
+    * [JGI 1000 Fungal Genomes Project](https://genome.jgi.doe.gov/fungi/fungi.info.html)
 * Chromosome count
 * Mean, minimum, and maximum chromosome lengths
 * Contig counts
@@ -25,6 +25,6 @@ The presented code maintains, updates, and edits a single database. The database
 
 
 ## Reference Database specific notes: 
-### JGI 1000 Genomes Project
+### JGI 1000 Fungal Genomes Project
 
 Updating the JGI part of the database is more complicated because JGI has many references have not been fully assembled and identified. Therefore, taxid information may change from update to update or species and genus level taxids may be missing all together. It is important to consider many possibilities that would not occur in other databases.
