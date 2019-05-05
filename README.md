@@ -12,7 +12,7 @@ The presented code maintains, updates, and edits a single database. The database
   * Current databases are:
     * [NCBI](https://www.ncbi.nlm.nih.gov/)
     * [Ensembl](http://fungi.ensembl.org/info/website/ftp/index.html)
-    * [Fungi DB](https://fungidb.org/common/downloads/release-41/)
+    * [FungiDB](https://fungidb.org/common/downloads/release-41/)
     * [JGI 1000 Fungal Genomes Project](https://genome.jgi.doe.gov/fungi/fungi.info.html)
 * Chromosome count
 * Mean, minimum, and maximum chromosome lengths
