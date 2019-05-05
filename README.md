@@ -5,7 +5,7 @@ Sometimes the Jupyter notbook code will not render. When this happens paste the 
 
 This repository is part of a larger database project that is working to merge multiple genomic reference databases.
 
-The presented code maintains, updates, and edits a single database. The databases refered to here are not the actual reference databases holding genetic sequences. The database here is instead refering to a single sql database where every row is associated with a single reference from the actual reference databases. These rows hold additional information about the respective reference genome, but not the genome itself. 
+The presented code maintains, updates, and edits a single SQL database. The databases refered to here are not the actual reference databases holding genetic sequences. The database here is instead refering to an SQL database where every row is associated with a single reference from the actual reference databases. These rows hold additional information about the respective reference genome, but not the genome itself. 
 
 The information in this database includes:
 * Strain, species, and genus universal taxanomic identifiers (taxids)
