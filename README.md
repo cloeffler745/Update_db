@@ -3,7 +3,7 @@ Sometimes the Jupyter notbook code will not render. When this happens paste the 
 
 # General Information
 
-This repository is part of a larger database project that is working to merge multiple genomic reference databases for fungus.
+This repository is part of a larger database project that is working to merge multiple genomic reference databases.
 
 The presented code maintains, updates, and edits a single database. The databases refered to here are not the actual reference databases holding genetic sequences. The database here is instead refering to a single sql database where every row is associated with a single reference from the actual reference databases. These rows hold additional information about the respective reference genome, but not the genome itself. 
 
